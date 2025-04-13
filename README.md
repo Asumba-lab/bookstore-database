@@ -21,5 +21,7 @@ A relational MySQL database for managing a bookstore's operations including book
 
 ## Author
 Steve Ogolla Asumba,
+
 Amulioto Makomela,
+
 Kopo Johannes Malgas
