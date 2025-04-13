@@ -20,6 +20,6 @@ A relational MySQL database for managing a bookstore's operations including book
 3. Use `test_queries.sql` to test
 
 ## Author
-Steve Ogolla Asumba
-Amulioto Makomela
+Steve Ogolla Asumba,
+Amulioto Makomela,
 Kopo Johannes Malgas
